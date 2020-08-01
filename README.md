@@ -2,6 +2,7 @@
 Contains scripts, detailed methods used for making figures and data analysis. Also contains the raw outputs.
 
 Description of the files:
+Anstep_Github: Pipeline for Analyzing and Annotating the An. stephensi Genome. Scripts and pipeline are provided for microbial decontamination, Iso-seq data analysis, genome annotation using MAKER2 and functional annotation.
 
 maker.gff : Final output from the MAKER run.
 
