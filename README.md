@@ -1,4 +1,4 @@
-# stephensi_genome
+# Anopheles stephensi genomic data analysis
 Contains scripts, detailed methods used for making figures and data analysis. Also contains the raw outputs.
 
 Description of the files:
